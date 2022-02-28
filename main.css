@@ -1,0 +1,33 @@
+header{
+    background-color: blue;
+    padding: 10px 0 10px 0;
+    color: white;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#sidebar-left{
+    background-color: red;
+    height: 500px;
+    width: 24.1%;
+    float: left;
+    margin-right: 5px;
+}
+
+section{
+    background-color: darkturquoise;
+    text-align: center;
+    color: white;
+    width: 50%;
+    float: left;
+    height: 500px;
+}
+
+#sidebar-right{
+    background-color: blueviolet;
+    height: 500px;
+    width: 24.2%;
+    float: left;
+    margin-left: 5px;
+}
